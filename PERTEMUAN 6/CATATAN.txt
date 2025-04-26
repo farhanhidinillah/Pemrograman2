@@ -1,0 +1,7 @@
+PERTEMUAN 6
+
+Pada pertemuan 6 ini membuat Koneksi dari NetBeans ke dalam DataBase.
+Saya Menggunakan DataBase MySQL (PHPMyAdmin).
+Untuk File nya tersimpan pada : Java Application\src\koneksi.
+
+Terima Kasih
